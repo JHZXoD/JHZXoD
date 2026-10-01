@@ -1,4 +1,6 @@
 ## Hi there 👋
+## My name is Jonathan, currently a college student making projects as a hobby.
+## I would say im ambitious and excited to learn new things!
 
 <!--
 **JHZXoD/JHZXoD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
